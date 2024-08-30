@@ -1,0 +1,16 @@
+ds-test/=lib/forge-std/lib/ds-test/src/
+forge-std/=lib/forge-std/src/
+hats-module/=lib/hats-module/src/
+@openzeppelin-contracts/=lib/hats-module/lib/openzeppelin-contracts/
+ERC1155/=lib/hats-protocol/lib/ERC1155/
+lib/ERC1155/=lib/hats-protocol/lib/ERC1155/
+hats-protocol/=lib/hats-protocol/src
+openzeppelin-contracts/=lib/hats-module/lib/openzeppelin-contracts/
+solady/=lib/hats-module/lib/solady/src/
+solbase/=lib/hats-protocol/lib/solbase/src/
+solmate/=lib/hats-module/lib/solady/lib/solmate/src/
+utils/=lib/hats-protocol/lib/utils/
+multi-claims-hatter/=lib/multi-claims-hatter/src/
+@sablier/v2-core=node_modules/@sablier/v2-core/
+@openzeppelin/contracts/=node_modules/@openzeppelin/contracts/
+@prb/math/=node_modules/@prb/math/
